@@ -1,0 +1,14 @@
+/home/alex/Projects/titipnovi_aspnetcore_api/bin/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.deps.json
+/home/alex/Projects/titipnovi_aspnetcore_api/bin/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.runtimeconfig.json
+/home/alex/Projects/titipnovi_aspnetcore_api/bin/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.runtimeconfig.dev.json
+/home/alex/Projects/titipnovi_aspnetcore_api/bin/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.dll
+/home/alex/Projects/titipnovi_aspnetcore_api/bin/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.pdb
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.csprojAssemblyReference.cache
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.csproj.CoreCompileInputs.cache
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.RazorAssemblyInfo.cache
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.RazorAssemblyInfo.cs
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.AssemblyInfoInputs.cache
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.AssemblyInfo.cs
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.RazorTargetAssemblyInfo.cache
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.dll
+/home/alex/Projects/titipnovi_aspnetcore_api/obj/Debug/netcoreapp2.1/titipnovi_aspnetcore_api.pdb
